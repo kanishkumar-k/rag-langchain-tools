@@ -1,0 +1,10 @@
+python-dotenv  
+langchain
+langchain-community
+langchainhub
+langchain-huggingface
+langchain-postgres
+groq
+pgvector
+psycopg2
+psycopg[binary]
